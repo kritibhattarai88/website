@@ -1,0 +1,156 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+
+}
+body{
+	background-color: #07332f;
+}
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+header{ 
+	width: 100%;
+	height: 100vh;
+
+}
+ul{
+	float: right;
+	list-style-type: none;
+	margin-top: 25px;
+	
+}
+ul li{
+	display: inline-block;
+	margin-top: 10px;
+
+}
+ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding:  5px 20px; 
+	font-family: sans-serif;
+
+}
+
+h1.content{
+text-transform: uppercase;
+	color: #fff;
+
+
+
+}
+.logo{
+	float: left;
+	width: 25%;
+	height: auto;
+	text-align: center;
+	color: #fff;
+	margin-top: 15px;
+}
+.main{
+	max-width: 1200px;
+	margin: auto;
+}
+.content{
+	width: 100%;
+	position: absolute;
+	top: 20%;
+	text-align: center;
+	font-size: 60px;
+	transform: translate(5px);
+	color: #cccccc;
+	letter-spacing: -1px;
+	font-weight: bold;
+	
+	
+
+}
+.button{
+	position: absolute;
+	top: 70%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	margin-top: 70px;
+}
+.btn{
+	border: 1px solid #fff;
+	padding: 17px 60px;
+	color: #000000;
+	text-decoration: none;
+	background-color: #fff;
+	font-family: sans-serif;
+}
+.btn:hover{
+	background: #c8c8c8;
+}
+.heading{
+	color: #fff
+}
+
+
+/*SERVICES*/
+.SERVICES{
+	padding: 45% 10%;
+	text-align: left;
+}
+h2.title{
+	margin-bottom: 10px;
+	font-size: 50px;
+	color: #fff;
+	text-transform: uppercase;
+}
+ p{
+	color: #fff;
+	font-family: sans-serif;
+	font-size: 19px;
+	margin-top: 13px;
+}
+.diff_SERVICES{
+	display: flex;
+	margin-top: 180px;
+	justify-content: space-between;
+}
+
+
+	
+
+
+.diff_SERVICES_item{
+	
+	background:#204945;
+	border-radius: 2px;
+	box-sizing: border-box;
+	margin-bottom: 30%;
+	padding: 20px 25px;
+	flex-basis: 30%;
+
+}
+
+
+
+
+h3{
+	color: #fff;
+	font-size: 25px;
+	font-family: sans-serif; 
+	margin-top: 38px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
